@@ -34,6 +34,6 @@ Latest card effect. This one has a good fake-3D effect to it when you add perspe
 
 ## Credits
 * Original code by [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) on YouTube
-* Recreated by me (sorry for copycating).
-* Images in Card Hover 2 are from [Unsplash](https://unsplash.com/).
+* Recreated by me (To the owner of these demo, I'm terribly sorry).
+* Images from [Unsplash](https://unsplash.com/).
 * Dummy text from [Hipster Ipsum](https://hipsum.co/).
