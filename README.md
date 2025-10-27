@@ -31,6 +31,5 @@ Latest card effect with fake 3D perspective.
 
 ## Credits
 * Original code by [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) on YouTube
-* Recreated by me (To the owner of these demo, I'm terribly sorry).
 * Images from [Unsplash](https://unsplash.com/).
 * Dummy text from [Hipster Ipsum](https://hipsum.co/).
